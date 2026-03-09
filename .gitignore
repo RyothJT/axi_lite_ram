@@ -1,0 +1,2 @@
+# Ignore all generated simulation files
+sim/gen/**
